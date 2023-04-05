@@ -1,12 +1,3 @@
-[![CircleCI](https://circleci.com/gh/midori-browser/core.svg?style=svg)](https://circleci.com/gh/midori-browser/core)
-[![Snap Status](https://build.snapcraft.io/badge/midori-browser/core.svg)](https://build.snapcraft.io/user/midori-browser/core)
-[![FlatHub](https://img.shields.io/badge/FlatHub-gray.svg)](https://flathub.org/apps/details/org.midori_browser.Midori)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-gray.svg?style=flat&logo=telegram&colorA=5583a4&logoColor=fff)](https://www.midori-browser.org/telegram)
-[![Twitter](https://img.shields.io/twitter/follow/midoriweb.svg?style=social&label=Follow)](https://twitter.com/midoriweb)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-gray.svg?style=flat&logo=paypal&colorA=0071bb&logoColor=fff)](https://www.midori-browser.org/donate)
-[![BountySource](https://img.shields.io/bountysource/team/midori/activity.svg)](https://www.bountysource.com/teams/midori)
-[![Patreon](https://img.shields.io/badge/PATREON-Pledge-red.svg)](https://www.patreon.com/midoribrowser)
-
 <p align="center">
     <img src="icons/scalable/apps/org.midori_browser.Midori.svg"/>
 </p>
@@ -18,7 +9,7 @@
 
 ![Midori Screenshot](https://www.midori-browser.org/images/screenshots/rdio.png)
 
-Midori is a lightweight yet powerful web browser which runs just as well on little embedded computers named for delicious pastries as it does on beefy machines with a core temperature exceeding that of planet earth. And it looks good doing that, too. Oh, and of course it's free software.
+Swift Browser is a lightweight yet powerful web browser which runs just as well on little embedded computers named for delicious pastries as it does on beefy machines with a core temperature exceeding that of planet earth. And it looks good doing that, too. Oh, and of course it's free software.
 
 **Privacy out of the box**
 
@@ -36,28 +27,7 @@ Midori is a lightweight yet powerful web browser which runs just as well on litt
 * Cross-browser extensions compatible with Chrome, Firefox, Opera and Vivaldi
 
 Please report comments, suggestions and bugs to:
-    https://github.com/midori-browser/core/issues
-
-Join [the #midori IRC channel](https://www.midori-browser.org/irc) on Freenode
-or [the Telegram group](https://www.midori-browser.org/telegram)!
-
-# Installing Midori on Linux
-
-If [your distro supports snaps](https://docs.snapcraft.io/core/)
-you can install the **latest stable** version of Midori
-[from the snap store](https://snapcraft.io/midori) with a single command:
-
-    snap install midori
-
-> **Spoilers:** For those more adventurous types out there, trying out the preview of the next version is only the switch of a channel away.
-
-You can also install Midori from [FlatHub](https://flathub.org/apps/details/org.midori_browser.Midori).
-
-    flatpak install flathub org.midori_browser.Midori
-
-# Installing Midori on Android
-
-You can opt-in for the [beta release on the Play Store](https://play.google.com/apps/testing/org.midori_browser.midori).
+    https://github.com/RetroSoftwareRepository/Swift-Browser/
 
 # Building from source
 
@@ -313,9 +283,9 @@ The following API specification is supported by Midori:
 * **katze, sokoke, tabby**: legacy API names and coincidentally cat breeds
 * web extension: a cross-browser extension (plugin) - or in a webkit context, the multi-process api
 
-# Midori for Android
+# Swift Browser for Android
 
-The easiest way to build, develop and test Midori on Android is with [Android Studio](https://developer.android.com/studio/#downloads) ([snap](https://snapcraft.io/android-studio)).
+The easiest way to build, develop and test Swift Browser on Android is with [Android Studio](https://developer.android.com/studio/#downloads) ([snap](https://snapcraft.io/android-studio)).
 
 When working with the command line, setting `JAVA_HOME` is paramount:
 
@@ -325,13 +295,13 @@ Afterwards you can run commands like so:
 
     ./gradlew lint test
 
-# Midori for Windows
+# Swift Browser for Windows
 
 ## For Linux developers
 
 ### Dependencies
 
-Midori for Windows is compiled on a Linux host and MinGW stack. For the current build Fedora 18 packages are used. Packages needed are listed below:
+Swift Browser for Windows is compiled on a Linux host and MinGW stack. For the current build Fedora 18 packages are used. Packages needed are listed below:
 
     yum install gcc vala intltool
 
