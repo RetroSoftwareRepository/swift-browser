@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <h1>Midori</h1>
+    <h1>Swift Browser</h1>
    A lightweight, fast and free web browser</p>
 </p>
 
