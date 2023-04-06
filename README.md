@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <b>Midori</b>
-    a lightweight, fast and free web browser
+    <h1>Midori</h1>
+   A lightweight, fast and free web browser</p>
 </p>
 
 ![Midori Screenshot](https://www.midori-browser.org/images/screenshots/rdio.png)
