@@ -2,9 +2,12 @@
     <img src="icons/scalable/apps/org.midori_browser.Midori.svg"/>
 </p>
 
+
+    <h1 align="center">
+        Swift Browser
+    </h1>
 <p align="center">
-    <h1 align="center">Swift Browser</h1>
-   A lightweight, fast and free web browser</p>
+   A lightweight, fast and free web browser
 </p>
 
 ![Midori Screenshot](https://www.midori-browser.org/images/screenshots/rdio.png)
