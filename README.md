@@ -10,7 +10,7 @@
    A lightweight, fast and free web browser
 </p>
 
-![Midori Screenshot]<img src="https://github.com/RetroSoftwareRepository/swift-browser-webpage/blob/main/Images/D85577D3-87FF-48FD-A06E-0513C607270C.png">
+<img src="https://github.com/RetroSoftwareRepository/swift-browser-webpage/blob/main/Images/D85577D3-87FF-48FD-A06E-0513C607270C.png">
 
 Swift Browser is a lightweight yet powerful web browser which runs just as well on little embedded computers named for delicious pastries as it does on beefy machines with a core temperature exceeding that of planet earth. And it looks good doing that, too. Oh, and of course it's free software.
 
