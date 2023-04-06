@@ -3,9 +3,9 @@
 </p>
 
 
-    <h1 align="center">
-        Swift Browser
-    </h1>
+<h1 align="center">
+  Swift Browser
+</h1>
 <p align="center">
    A lightweight, fast and free web browser
 </p>
